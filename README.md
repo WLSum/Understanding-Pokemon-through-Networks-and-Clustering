@@ -79,4 +79,4 @@ The two analyses conducted have provided valuable insights into the Pokémon wor
 - 🎮 These insights can influence strategic decisions in forming a Pokémon team and also planning in the battle.
 
 
-👉 More details on the analysis and result are in the full report: [report.md](report.md)
+👉 More details on the analysis and result are in the full report: [Understanding Pokemon through Networks and Clustering.pdf](https://github.com/WLSum/Understanding-Pokemon-through-Networks-and-Clustering/blob/main/Understanding%20Pokemon%20through%20Networks%20and%20Clustering.pdf)
