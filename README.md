@@ -1,7 +1,7 @@
 # Understanding-Pokemon-through-Networks-and-Clustering
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c771106-701c-4827-b09d-e223da134118" height="300" width="700">
+  <img src="https://github.com/user-attachments/assets/3c771106-701c-4827-b09d-e223da134118" height="400" width="700">
 </div>
 
 ## Introduction
@@ -79,4 +79,4 @@ The two analyses conducted have provided valuable insights into the Pokémon wor
 - 🎮 These insights can influence strategic decisions in forming a Pokémon team and also planning in the battle.
 
 
-👉 More details on the analysis and result in the full report: [report.md](report.md)
+👉 More details on the analysis and result are in the full report: [report.md](report.md)
